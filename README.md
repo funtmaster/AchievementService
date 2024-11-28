@@ -98,4 +98,4 @@ end)
 * Developed and created by @FuntMaster.
 * One thing to note is that AchievementService uses **[RoProxy](https://devforum.roblox.com/t/roproxycom-a-free-rotating-proxy-for-roblox-apis/1508367)** to access Roblox Badge APIs. Although rare, I cannot control any downtime or slowdown that occur with this proxy. If you're worried about that, I'd recommend using your own self-hosted proxy or some other way to access Roblox Badge APIs. (If someone has a better way of accessing the API, lmk!)
 * Lastly, please feel free to let me know of any bugs, issues, suggestions that you have!
-<sub>P.S. this is my first time making a community resource!</sub>
+<br><sub>P.S. this is my first time making a community resource!</sub>
